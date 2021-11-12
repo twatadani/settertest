@@ -1,7 +1,7 @@
 ''' settertest.py - Pythonのプロパティsetterのテスト '''
 
 class Car:
-    ''' テスト用に車を洗わすクラス '''
+    ''' テスト用に車を表すクラス '''
 
     def __init__(self):
         
